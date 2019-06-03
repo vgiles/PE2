@@ -6132,12 +6132,22 @@
 			}
 , 			{
 				"box" : 				{
+					"bgcolor" : [ 0.270588235294118, 0.054901960784314, 0.96078431372549, 0.0 ],
+					"bubble" : 1,
+					"bubbletextmargin" : 3,
+					"bubbleusescolors" : 1,
 					"id" : "obj-10",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 274.000000000000114, 36.666665375232697, 150.0, 20.0 ],
-					"text" : "load a folder of 8 samples"
+					"patching_rect" : [ 274.000000000000114, 36.666665375232697, 152.0, 33.0 ],
+					"presentation" : 1,
+					"presentation_linecount" : 2,
+					"presentation_rect" : [ 160.991666626930225, 9.5, 95.0, 33.0 ],
+					"style" : "default",
+					"text" : "load a folder of 8 samples",
+					"textcolor" : [ 0.274509803921569, 0.403921568627451, 0.396078431372549, 1.0 ]
 				}
 
 			}
