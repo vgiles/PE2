@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "AUMatrixReverb",
+	"origin" : "AUMatrixReverb.auinfo",
+	"type" : "AudioUnit",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "AUMatrixReverb.auinfo",
+		"plugindisplayname" : "AUMatrixReverb",
+		"pluginsavedname" : "AUMatrixReverb",
+		"pluginsaveduniqueid" : 1836213622,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [  ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+		"blob" : "328.hAGaoMGcv.y0AHv.DTfAGfPBJr.CM3.WsEla0YVXiQWcxUlbTQVXzE1UyUmXzkGbkckckI2bo8laTQWdvUlWxUlajUlbsDWcgwVZzkGUtEVakIQXvAGaOAAk..............PD.....HTqIB....P.BM3m.....H.O32LX....CzSfMPJ....A7j61KB...TPOA9HW....F7SMVaF...vA+DPFZB...fvOAAM.....I7SLNZA...fB+nRK4B...rvOC.E.....L7Sx2P....PC9vLyMC...3PQ0lMZ....O.DP.......D.....HQaxUlcP.fDgUmY3Awec0TYjkVcsABRgwFafLC.H.vE.PB.o.PL.jC.9.PS.HE.WAf6.LO.0Cf9.vO.......f.A.........vC..................P.J."
+	}
+
+}
